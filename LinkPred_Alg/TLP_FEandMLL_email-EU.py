@@ -12,7 +12,7 @@ import gc;
 
 ## email-EU dataset
 # directory = "/home/tanshiyin/Documents/machineLearning/dynamicNetwork/temporalData/sx-askubuntu/sx-askubuntu_ByMonth/"
-directory = "D:\\machineLearning/dynamicNetwork/temporalData/email-EU-core/email-EU-core-temporal-ByMonth/"
+directory = "../temporalData/email-EU-core/email-EU-core-temporal-ByMonth/"
 filenames=["1970-01.txt","1970-02.txt","1970-03.txt","1970-04.txt","1970-05.txt","1970-06.txt","1970-07.txt", \
           "1970-08.txt","1970-09.txt","1970-10.txt","1970-11.txt","1970-12.txt"]
 Gs = [];
