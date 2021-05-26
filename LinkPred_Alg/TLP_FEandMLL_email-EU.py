@@ -26,7 +26,7 @@ for i in range(0,8):
     Gs.append(G);
 
 times=2
-mydb_path="D:\\machineLearning/dynamicNetwork/temporalData/email-EU-core/TLP_FEandMLL/result/Gs197001-197008_dim400_a_0-100_b1times2_tol1e-2"
+mydb_path="../temporalData/email-EU-core/TLP_FEandMLL/result/Gs197001-197008_dim400_a_0-100_b1times2_tol1e-2"
 dims = [100,200,300,400,500];
 alphas = np.arange(0,2,0.1);
 betas = np.arange(0,2,0.1);
