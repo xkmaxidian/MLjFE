@@ -1,0 +1,1 @@
+In experiment of algorithm MLjFE, from 1970-01 to 1970-07 as training networks, and 1970-08.txt as test network. 
